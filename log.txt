@@ -1,0 +1,50 @@
+UPDATE 06.07.22 10:40:02:
+a: 0
+h: 0
+
+tg: 128
+s: 128
+pf: 0
+pzrbot: 0
+
+http: 2624
+http_old: 0
+
+
+UPDATE 06.07.22 10:20:02:
+a: 0
+h: 0
+
+tg: 128
+s: 128
+pf: 0
+pzrbot: 0
+
+http: 2624
+http_old: 0
+
+
+UPDATE 06.07.22 10:00:02:
+a: 0
+h: 0
+
+tg: 128
+s: 128
+pf: 0
+pzrbot: 0
+
+http: 2624
+http_old: 0
+
+
+UPDATE 06.07.22 09:40:02:
+a: 0
+h: 0
+
+tg: 0
+s: 0
+pf: 0
+pzrbot: 0
+
+http: 2617
+http_old: 0

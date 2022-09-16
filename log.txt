@@ -1,13 +1,13 @@
-UPDATE 16.09.22 21:53:25:
+UPDATE 16.09.22 21:57:07:
 a: 0
 h: 0
 
-tg: 0
-s: 0
+tg: 128
+s: 128
 pf: 0
 pzrbot: 0
 
-http: 18166
+http: 18221
 http_old: 0
 
 

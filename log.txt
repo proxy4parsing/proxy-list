@@ -1,13 +1,13 @@
-UPDATE 12.02.23 16:40:02:
+UPDATE 12.02.23 17:00:02:
 a: 0
 h: 0
 
-tg: 128
-s: 128
+tg: 0
+s: 0
 pf: 0
 pzrbot: 0
 
-http: 4478
+http: 4449
 http_old: 0
 
 

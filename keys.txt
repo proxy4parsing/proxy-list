@@ -1,2 +1,17 @@
 
-408RequestTimeout
+<p>firstbytetimeout</p>
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<title>503firstbytetimeout</title>
+<h3>Error54113</h3>
+</html>
+<!DOCTYPEhtmlPUBLIC"-//W3C//DTDXHTML1.0Strict//EN"
+<p>Details:cache-ams21045-AMS16810464201599443550</p>
+<hr>
+<p>Varnishcacheserver</p>
+<body>
+</head>
+</body>
+<?xmlversion="1.0"encoding="utf-8"?>
+<html>
+<head>
+<h1>Error503firstbytetimeout</h1>

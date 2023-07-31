@@ -1,3 +1,16 @@
+UPDATE 31.07.23 09:00:02:
+a: 0
+h: 0
+
+tg: 0
+s: 0
+pf: 0
+pzrbot: 0
+
+http: 23059
+http_old: 0
+
+
 UPDATE 31.07.23 08:40:02:
 a: 0
 h: 0

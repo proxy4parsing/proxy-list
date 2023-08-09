@@ -1,17 +1,17 @@
 
-<html>
+<?xmlversion="1.0"encoding="utf-8"?>
 <p>firstbytetimeout</p>
 <h3>Error54113</h3>
-</head>
 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<h1>Error503firstbytetimeout</h1>
-<?xmlversion="1.0"encoding="utf-8"?>
+</head>
 <p>Details:cache-ams21045-AMS16915440202389200345</p>
-<!DOCTYPEhtmlPUBLIC"-//W3C//DTDXHTML1.0Strict//EN"
+<html>
 <head>
-<p>Varnishcacheserver</p>
-</body>
+<h1>Error503firstbytetimeout</h1>
 </html>
-<hr>
+</body>
 <body>
+<p>Varnishcacheserver</p>
+<hr>
+<!DOCTYPEhtmlPUBLIC"-//W3C//DTDXHTML1.0Strict//EN"
 <title>503firstbytetimeout</title>

@@ -1,43 +1,4 @@
-UPDATE 05.09.23 09:40:02:
-a: 0
-h: 0
-
-tg: 0
-s: 0
-pf: 0
-pzrbot: 0
-
-http: 2592
-http_old: 0
-
-
-UPDATE 05.09.23 09:20:03:
-a: 0
-h: 0
-
-tg: 0
-s: 0
-pf: 0
-pzrbot: 0
-
-http: 2592
-http_old: 0
-
-
-UPDATE 05.09.23 09:00:03:
-a: 0
-h: 0
-
-tg: 0
-s: 0
-pf: 0
-pzrbot: 0
-
-http: 2592
-http_old: 0
-
-
-UPDATE 05.09.23 08:40:02:
+UPDATE 05.09.23 10:00:02:
 a: 0
 h: 0
 
@@ -46,59 +7,7 @@ s: 128
 pf: 0
 pzrbot: 0
 
-http: 2592
-http_old: 0
-
-
-UPDATE 05.09.23 08:20:02:
-a: 0
-h: 0
-
-tg: 128
-s: 128
-pf: 0
-pzrbot: 0
-
-http: 2592
-http_old: 0
-
-
-UPDATE 05.09.23 08:00:02:
-a: 0
-h: 0
-
-tg: 128
-s: 128
-pf: 0
-pzrbot: 0
-
-http: 2592
-http_old: 0
-
-
-UPDATE 05.09.23 07:40:02:
-a: 0
-h: 0
-
-tg: 0
-s: 0
-pf: 0
-pzrbot: 0
-
-http: 2573
-http_old: 0
-
-
-UPDATE 05.09.23 07:20:02:
-a: 0
-h: 0
-
-tg: 0
-s: 0
-pf: 0
-pzrbot: 0
-
-http: 0
+http: 128
 http_old: 0
 
 
@@ -107,13 +16,13 @@ http_old: 0
  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html>
   <head>
-    <title>503 first byte timeout</title>
+    <title>503 Backend is unhealthy</title>
   </head>
   <body>
-    <h1>Error 503 first byte timeout</h1>
-    <p>first byte timeout</p>
+    <h1>Error 503 Backend is unhealthy</h1>
+    <p>Backend is unhealthy</p>
     <h3>Error 54113</h3>
-    <p>Details: cache-ams12774-AMS 1693887661 2437550489</p>
+    <p>Details: cache-ams12774-AMS 1693897274 2469515307</p>
     <hr>
     <p>Varnish cache server</p>
   </body>

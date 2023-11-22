@@ -1,4 +1,4 @@
-UPDATE 22.11.23 22:00:02:
+UPDATE 22.11.23 22:20:02:
 a: 0
 h: 0
 
@@ -8,32 +8,6 @@ pf: 0
 pzrbot: 0
 
 http: 5557
-http_old: 0
-
-
-UPDATE 22.11.23 21:40:02:
-a: 0
-h: 0
-
-tg: 0
-s: 0
-pf: 0
-pzrbot: 0
-
-http: 5553
-http_old: 0
-
-
-UPDATE 22.11.23 21:20:02:
-a: 0
-h: 0
-
-tg: 0
-s: 0
-pf: 0
-pzrbot: 0
-
-http: 5553
 http_old: 0
 
 

@@ -1,4 +1,4 @@
-UPDATE 22.02.24 16:00:02:
+UPDATE 22.02.24 16:20:02:
 a: 0
 h: 0
 
@@ -7,7 +7,7 @@ s: 128
 pf: 0
 pzrbot: 0
 
-http: 8461
+http: 128
 http_old: 0
 
 
